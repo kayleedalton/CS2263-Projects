@@ -1,0 +1,17 @@
+C:\Users\kayle\source\repos\KayleeDalton2263Ex3\KayleeDalton2263Ex3\bin\Debug\net6.0-windows\KayleeDalton2263Ex3.exe
+C:\Users\kayle\source\repos\KayleeDalton2263Ex3\KayleeDalton2263Ex3\bin\Debug\net6.0-windows\KayleeDalton2263Ex3.deps.json
+C:\Users\kayle\source\repos\KayleeDalton2263Ex3\KayleeDalton2263Ex3\bin\Debug\net6.0-windows\KayleeDalton2263Ex3.runtimeconfig.json
+C:\Users\kayle\source\repos\KayleeDalton2263Ex3\KayleeDalton2263Ex3\bin\Debug\net6.0-windows\KayleeDalton2263Ex3.dll
+C:\Users\kayle\source\repos\KayleeDalton2263Ex3\KayleeDalton2263Ex3\bin\Debug\net6.0-windows\KayleeDalton2263Ex3.pdb
+C:\Users\kayle\source\repos\KayleeDalton2263Ex3\KayleeDalton2263Ex3\obj\Debug\net6.0-windows\KayleeDalton2263Ex3.csproj.AssemblyReference.cache
+C:\Users\kayle\source\repos\KayleeDalton2263Ex3\KayleeDalton2263Ex3\obj\Debug\net6.0-windows\KayleeDalton2263Ex3.Ex3.resources
+C:\Users\kayle\source\repos\KayleeDalton2263Ex3\KayleeDalton2263Ex3\obj\Debug\net6.0-windows\KayleeDalton2263Ex3.csproj.GenerateResource.cache
+C:\Users\kayle\source\repos\KayleeDalton2263Ex3\KayleeDalton2263Ex3\obj\Debug\net6.0-windows\KayleeDalton2263Ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayle\source\repos\KayleeDalton2263Ex3\KayleeDalton2263Ex3\obj\Debug\net6.0-windows\KayleeDalton2263Ex3.AssemblyInfoInputs.cache
+C:\Users\kayle\source\repos\KayleeDalton2263Ex3\KayleeDalton2263Ex3\obj\Debug\net6.0-windows\KayleeDalton2263Ex3.AssemblyInfo.cs
+C:\Users\kayle\source\repos\KayleeDalton2263Ex3\KayleeDalton2263Ex3\obj\Debug\net6.0-windows\KayleeDalton2263Ex3.csproj.CoreCompileInputs.cache
+C:\Users\kayle\source\repos\KayleeDalton2263Ex3\KayleeDalton2263Ex3\obj\Debug\net6.0-windows\KayleeDalton2263Ex3.dll
+C:\Users\kayle\source\repos\KayleeDalton2263Ex3\KayleeDalton2263Ex3\obj\Debug\net6.0-windows\refint\KayleeDalton2263Ex3.dll
+C:\Users\kayle\source\repos\KayleeDalton2263Ex3\KayleeDalton2263Ex3\obj\Debug\net6.0-windows\KayleeDalton2263Ex3.pdb
+C:\Users\kayle\source\repos\KayleeDalton2263Ex3\KayleeDalton2263Ex3\obj\Debug\net6.0-windows\KayleeDalton2263Ex3.genruntimeconfig.cache
+C:\Users\kayle\source\repos\KayleeDalton2263Ex3\KayleeDalton2263Ex3\obj\Debug\net6.0-windows\ref\KayleeDalton2263Ex3.dll
