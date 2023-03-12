@@ -1,0 +1,15 @@
+C:\Users\kayle\source\repos\MidtermStudy\MidtermStudy\bin\Debug\net6.0\MidtermStudy.exe
+C:\Users\kayle\source\repos\MidtermStudy\MidtermStudy\bin\Debug\net6.0\MidtermStudy.deps.json
+C:\Users\kayle\source\repos\MidtermStudy\MidtermStudy\bin\Debug\net6.0\MidtermStudy.runtimeconfig.json
+C:\Users\kayle\source\repos\MidtermStudy\MidtermStudy\bin\Debug\net6.0\MidtermStudy.dll
+C:\Users\kayle\source\repos\MidtermStudy\MidtermStudy\bin\Debug\net6.0\MidtermStudy.pdb
+C:\Users\kayle\source\repos\MidtermStudy\MidtermStudy\obj\Debug\net6.0\MidtermStudy.csproj.AssemblyReference.cache
+C:\Users\kayle\source\repos\MidtermStudy\MidtermStudy\obj\Debug\net6.0\MidtermStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayle\source\repos\MidtermStudy\MidtermStudy\obj\Debug\net6.0\MidtermStudy.AssemblyInfoInputs.cache
+C:\Users\kayle\source\repos\MidtermStudy\MidtermStudy\obj\Debug\net6.0\MidtermStudy.AssemblyInfo.cs
+C:\Users\kayle\source\repos\MidtermStudy\MidtermStudy\obj\Debug\net6.0\MidtermStudy.csproj.CoreCompileInputs.cache
+C:\Users\kayle\source\repos\MidtermStudy\MidtermStudy\obj\Debug\net6.0\MidtermStudy.dll
+C:\Users\kayle\source\repos\MidtermStudy\MidtermStudy\obj\Debug\net6.0\refint\MidtermStudy.dll
+C:\Users\kayle\source\repos\MidtermStudy\MidtermStudy\obj\Debug\net6.0\MidtermStudy.pdb
+C:\Users\kayle\source\repos\MidtermStudy\MidtermStudy\obj\Debug\net6.0\MidtermStudy.genruntimeconfig.cache
+C:\Users\kayle\source\repos\MidtermStudy\MidtermStudy\obj\Debug\net6.0\ref\MidtermStudy.dll
